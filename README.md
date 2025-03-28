@@ -1,4 +1,4 @@
- weather-app
+ Weather-app
  A simple, user-friendly weather application that provides real-time weather information based on your location or a city name. Built with [insert technologies used, e.g., React, Node.js, etc.].
 
 Features
