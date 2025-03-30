@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+    background-image: url('https://source.unsplash.com/1600x900/?weather,sky');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
