@@ -53,7 +53,8 @@ const WeatherApp = () => {
   };
 
   return (
-    <div className="flex flex-col items-center p-6 space-y-4">
+    <div className="flex flex-col items-center p-6 space-y-4 bg-black bg-opacity-50 min-h-screen">
+
       <Input
         type="text"
         placeholder="Enter city name"
